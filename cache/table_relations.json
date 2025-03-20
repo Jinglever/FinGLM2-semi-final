@@ -1,0 +1,1074 @@
+{
+  "astockbasicinfodb.lc_business": {
+    "constantdb.secumain": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ]
+  },
+  "constantdb.secumain": {
+    "astockbasicinfodb.lc_business": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "astockbasicinfodb.lc_namechange": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "astockbasicinfodb.lc_stockarchives": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "astockeventsdb.lc_credit": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "astockeventsdb.lc_entrustinv": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "astockeventsdb.lc_investorra": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ],
+    "astockeventsdb.lc_majorcontract": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "astockeventsdb.lc_regroup": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "astockeventsdb.lc_suitarbitration": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "astockeventsdb.lc_warrant": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "astockfinancedb.lc_ashareplacement": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ],
+    "astockfinancedb.lc_ashareseasonednewissue": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ],
+    "astockfinancedb.lc_auditopinion": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "astockfinancedb.lc_balancesheetall": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "astockfinancedb.lc_capitalinvest": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      },
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ],
+    "astockfinancedb.lc_cashflowstatementall": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "astockfinancedb.lc_dividend": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ],
+    "astockfinancedb.lc_incomestatementall": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "astockfinancedb.lc_intassetsdetail": [
+      {
+        "name": "内部编码",
+        "columns": "InnerCode-InnerCode"
+      },
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "astockfinancedb.lc_mainoperincome": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "astockfinancedb.lc_operatingstatus": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "astockindustrydb.lc_coconcept": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ],
+    "astockindustrydb.lc_exgindchange": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "astockindustrydb.lc_exgindustry": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "astockmarketquotesdb.cs_stockcapflowindex": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ],
+    "astockmarketquotesdb.cs_stockpatterns": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ],
+    "astockmarketquotesdb.cs_turnovervoltecindex": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ],
+    "astockmarketquotesdb.lc_suspendresumption": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ],
+    "astockmarketquotesdb.qt_dailyquote": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ],
+    "astockmarketquotesdb.qt_stockperformance": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ],
+    "astockoperationsdb.lc_rewardstat": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "astockoperationsdb.lc_staff": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "astockoperationsdb.lc_suppcustdetail": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "astockshareholderdb.cs_foreignholdingst": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ],
+    "astockshareholderdb.lc_actualcontroller": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "astockshareholderdb.lc_buyback": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "astockshareholderdb.lc_esop": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ],
+    "astockshareholderdb.lc_esopsummary": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ],
+    "astockshareholderdb.lc_legaldistribution": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ],
+    "astockshareholderdb.lc_mainshlistnew": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "astockshareholderdb.lc_mshareholder": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "astockshareholderdb.lc_nationalstockholdst": [
+      {
+        "name": "内部编码",
+        "columns": "InnerCode-InnerCode"
+      },
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "astockshareholderdb.lc_sharefp": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "astockshareholderdb.lc_sharefpsta": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "astockshareholderdb.lc_sharestru": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "astockshareholderdb.lc_sharetransfer": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      },
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ],
+    "astockshareholderdb.lc_shnumber": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "astockshareholderdb.lc_smattendinfo": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "astockshareholderdb.lc_stockholdingst": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      },
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "astockshareholderdb.lc_transferplan": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "indexdb.lc_indexcomponent": [
+      {
+        "name": "证券代码",
+        "columns": "InnerCode-SecuInnerCode"
+      }
+    ],
+    "institutiondb.lc_instiarchive": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "publicfunddb.mf_dividend": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ],
+    "publicfunddb.mf_fundarchives": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ],
+    "publicfunddb.mf_fundprodname": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ]
+  },
+  "astockbasicinfodb.lc_namechange": {
+    "constantdb.secumain": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ]
+  },
+  "astockbasicinfodb.lc_stockarchives": {
+    "constantdb.secumain": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "constantdb.lc_areacode": [
+      {
+        "name": "省份地区编码",
+        "columns": "State-AreaInnerCode"
+      }
+    ]
+  },
+  "constantdb.lc_areacode": {
+    "astockbasicinfodb.lc_stockarchives": [
+      {
+        "name": "省份地区编码",
+        "columns": "AreaInnerCode-State"
+      }
+    ],
+    "usstockdb.us_companyinfo": [
+      {
+        "name": "注册地国家",
+        "columns": "AreaInnerCode-RegCountry"
+      },
+      {
+        "name": "国家代码1",
+        "columns": "AreaInnerCode-CountryCode"
+      }
+    ]
+  },
+  "astockeventsdb.lc_credit": {
+    "constantdb.secumain": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ]
+  },
+  "astockeventsdb.lc_entrustinv": {
+    "constantdb.secumain": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ]
+  },
+  "astockeventsdb.lc_investorra": {
+    "constantdb.secumain": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ]
+  },
+  "astockeventsdb.lc_majorcontract": {
+    "constantdb.secumain": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ]
+  },
+  "astockeventsdb.lc_regroup": {
+    "constantdb.secumain": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ]
+  },
+  "astockeventsdb.lc_suitarbitration": {
+    "constantdb.secumain": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ]
+  },
+  "astockeventsdb.lc_warrant": {
+    "constantdb.secumain": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ]
+  },
+  "astockfinancedb.lc_ashareplacement": {
+    "constantdb.secumain": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ]
+  },
+  "astockfinancedb.lc_ashareseasonednewissue": {
+    "constantdb.secumain": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ]
+  },
+  "astockfinancedb.lc_auditopinion": {
+    "constantdb.secumain": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "institutiondb.lc_instiarchive": [
+      {
+        "name": "所属机构（注意本字段的值可能是NULL）",
+        "columns": "InstiBelongedCode-CompanyCode"
+      }
+    ],
+    "constantdb.ct_systemconst": [
+      {
+        "name": "审计意见类型",
+        "columns": "OpinionType-DM"
+      }
+    ]
+  },
+  "institutiondb.lc_instiarchive": {
+    "astockfinancedb.lc_auditopinion": [
+      {
+        "name": "所属机构（注意本字段的值可能是NULL）",
+        "columns": "CompanyCode-InstiBelongedCode"
+      }
+    ],
+    "astockoperationsdb.lc_suppcustdetail": [
+      {
+        "name": "关联方代码（注意本字段的值可能是NULL）",
+        "columns": "CompanyCode-RelatedPartyCode"
+      }
+    ],
+    "constantdb.secumain": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "publicfunddb.mf_fundarchives": [
+      {
+        "name": "注册登记机构(TA类型)",
+        "columns": "CompanyCode-RegInstCode"
+      }
+    ]
+  },
+  "constantdb.ct_systemconst": {
+    "astockfinancedb.lc_auditopinion": [
+      {
+        "name": "审计意见类型",
+        "columns": "DM-OpinionType"
+      }
+    ],
+    "astockfinancedb.lc_mainoperincome": [
+      {
+        "name": "是否调整",
+        "columns": "DM-IfAdjusted"
+      }
+    ],
+    "constantdb.hk_secumain": [
+      {
+        "name": "交易货币单位",
+        "columns": "DM-TraCurrUnit"
+      }
+    ]
+  },
+  "astockfinancedb.lc_balancesheetall": {
+    "constantdb.secumain": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ]
+  },
+  "astockfinancedb.lc_capitalinvest": {
+    "constantdb.secumain": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      },
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ]
+  },
+  "astockfinancedb.lc_cashflowstatementall": {
+    "constantdb.secumain": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ]
+  },
+  "astockfinancedb.lc_dividend": {
+    "constantdb.secumain": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ]
+  },
+  "astockfinancedb.lc_incomestatementall": {
+    "constantdb.secumain": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ]
+  },
+  "astockfinancedb.lc_intassetsdetail": {
+    "constantdb.secumain": [
+      {
+        "name": "内部编码",
+        "columns": "InnerCode-InnerCode"
+      },
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ]
+  },
+  "astockfinancedb.lc_mainoperincome": {
+    "constantdb.secumain": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "constantdb.ct_systemconst": [
+      {
+        "name": "是否调整",
+        "columns": "IfAdjusted-DM"
+      }
+    ]
+  },
+  "astockfinancedb.lc_operatingstatus": {
+    "constantdb.secumain": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ]
+  },
+  "astockindustrydb.lc_coconcept": {
+    "constantdb.secumain": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ],
+    "astockindustrydb.lc_conceptlist": [
+      {
+        "name": "所属概念板块编码",
+        "columns": "ConceptCode-ConceptCode"
+      }
+    ]
+  },
+  "astockindustrydb.lc_conceptlist": {
+    "astockindustrydb.lc_coconcept": [
+      {
+        "name": "所属概念板块编码",
+        "columns": "ConceptCode-ConceptCode"
+      }
+    ]
+  },
+  "astockindustrydb.lc_exgindchange": {
+    "constantdb.secumain": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ]
+  },
+  "astockindustrydb.lc_exgindustry": {
+    "constantdb.secumain": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ]
+  },
+  "astockmarketquotesdb.cs_stockcapflowindex": {
+    "constantdb.secumain": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ]
+  },
+  "astockmarketquotesdb.cs_stockpatterns": {
+    "constantdb.secumain": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ]
+  },
+  "astockmarketquotesdb.cs_turnovervoltecindex": {
+    "constantdb.secumain": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ]
+  },
+  "astockmarketquotesdb.lc_suspendresumption": {
+    "constantdb.secumain": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ]
+  },
+  "astockmarketquotesdb.qt_dailyquote": {
+    "constantdb.secumain": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ]
+  },
+  "astockmarketquotesdb.qt_stockperformance": {
+    "constantdb.secumain": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ]
+  },
+  "astockoperationsdb.lc_rewardstat": {
+    "constantdb.secumain": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ]
+  },
+  "astockoperationsdb.lc_staff": {
+    "constantdb.secumain": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ]
+  },
+  "astockoperationsdb.lc_suppcustdetail": {
+    "constantdb.secumain": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "institutiondb.lc_instiarchive": [
+      {
+        "name": "关联方代码（注意本字段的值可能是NULL）",
+        "columns": "RelatedPartyCode-CompanyCode"
+      }
+    ]
+  },
+  "astockshareholderdb.cs_foreignholdingst": {
+    "constantdb.secumain": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ]
+  },
+  "astockshareholderdb.lc_actualcontroller": {
+    "constantdb.secumain": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ]
+  },
+  "astockshareholderdb.lc_buyback": {
+    "constantdb.secumain": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ]
+  },
+  "astockshareholderdb.lc_esop": {
+    "constantdb.secumain": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ]
+  },
+  "astockshareholderdb.lc_esopsummary": {
+    "constantdb.secumain": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ]
+  },
+  "astockshareholderdb.lc_legaldistribution": {
+    "constantdb.secumain": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ]
+  },
+  "astockshareholderdb.lc_mainshlistnew": {
+    "constantdb.secumain": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "astockshareholderdb.lc_shtypeclassifi": [
+      {
+        "name": "股东ID",
+        "columns": "GDID-SHID"
+      }
+    ]
+  },
+  "astockshareholderdb.lc_shtypeclassifi": {
+    "astockshareholderdb.lc_mainshlistnew": [
+      {
+        "name": "股东ID",
+        "columns": "SHID-GDID"
+      }
+    ],
+    "astockshareholderdb.lc_nationalstockholdst": [
+      {
+        "name": "股东ID",
+        "columns": "SHID-SHID"
+      }
+    ]
+  },
+  "astockshareholderdb.lc_mshareholder": {
+    "constantdb.secumain": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ]
+  },
+  "astockshareholderdb.lc_nationalstockholdst": {
+    "constantdb.secumain": [
+      {
+        "name": "内部编码",
+        "columns": "InnerCode-InnerCode"
+      },
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "astockshareholderdb.lc_shtypeclassifi": [
+      {
+        "name": "股东ID",
+        "columns": "SHID-SHID"
+      }
+    ]
+  },
+  "astockshareholderdb.lc_sharefp": {
+    "constantdb.secumain": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ]
+  },
+  "astockshareholderdb.lc_sharefpsta": {
+    "constantdb.secumain": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ]
+  },
+  "astockshareholderdb.lc_sharestru": {
+    "constantdb.secumain": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ]
+  },
+  "astockshareholderdb.lc_sharetransfer": {
+    "constantdb.secumain": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      },
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ]
+  },
+  "astockshareholderdb.lc_shnumber": {
+    "constantdb.secumain": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ]
+  },
+  "astockshareholderdb.lc_smattendinfo": {
+    "constantdb.secumain": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ]
+  },
+  "astockshareholderdb.lc_stockholdingst": {
+    "constantdb.secumain": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      },
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ]
+  },
+  "astockshareholderdb.lc_transferplan": {
+    "constantdb.secumain": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ]
+  },
+  "constantdb.hk_secumain": {
+    "constantdb.ct_systemconst": [
+      {
+        "name": "交易货币单位",
+        "columns": "TraCurrUnit-DM"
+      }
+    ],
+    "hkstockdb.cs_hkstockperformance": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ],
+    "hkstockdb.hk_employeechange": [
+      {
+        "name": "证券内部代码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ],
+    "hkstockdb.hk_stockarchives": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "indexdb.lc_indexcomponent": [
+      {
+        "name": "证券代码",
+        "columns": "InnerCode-SecuInnerCode"
+      }
+    ]
+  },
+  "hkstockdb.cs_hkstockperformance": {
+    "constantdb.hk_secumain": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ]
+  },
+  "hkstockdb.hk_employeechange": {
+    "constantdb.hk_secumain": [
+      {
+        "name": "证券内部代码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ]
+  },
+  "hkstockdb.hk_stockarchives": {
+    "constantdb.hk_secumain": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ]
+  },
+  "indexdb.lc_indexbasicinfo": {
+    "indexdb.lc_indexcomponent": [
+      {
+        "name": "指数代码",
+        "columns": "IndexCode-IndexInnerCode"
+      }
+    ]
+  },
+  "indexdb.lc_indexcomponent": {
+    "indexdb.lc_indexbasicinfo": [
+      {
+        "name": "指数代码",
+        "columns": "IndexInnerCode-IndexCode"
+      }
+    ],
+    "constantdb.secumain": [
+      {
+        "name": "证券代码",
+        "columns": "SecuInnerCode-InnerCode"
+      }
+    ],
+    "constantdb.hk_secumain": [
+      {
+        "name": "证券代码",
+        "columns": "SecuInnerCode-InnerCode"
+      }
+    ],
+    "constantdb.us_secumain": [
+      {
+        "name": "证券代码",
+        "columns": "SecuInnerCode-InnerCode"
+      }
+    ]
+  },
+  "constantdb.us_secumain": {
+    "indexdb.lc_indexcomponent": [
+      {
+        "name": "证券代码",
+        "columns": "InnerCode-SecuInnerCode"
+      }
+    ],
+    "usstockdb.us_companyinfo": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ]
+  },
+  "publicfunddb.mf_dividend": {
+    "constantdb.secumain": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ]
+  },
+  "publicfunddb.mf_fundarchives": {
+    "constantdb.secumain": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ],
+    "publicfunddb.mf_investadvisoroutline": [
+      {
+        "name": "基金公司代码",
+        "columns": "InvestAdvisorCode-InvestAdvisorCode"
+      }
+    ],
+    "institutiondb.lc_instiarchive": [
+      {
+        "name": "注册登记机构(TA类型)",
+        "columns": "RegInstCode-CompanyCode"
+      }
+    ]
+  },
+  "publicfunddb.mf_investadvisoroutline": {
+    "publicfunddb.mf_fundarchives": [
+      {
+        "name": "基金公司代码",
+        "columns": "InvestAdvisorCode-InvestAdvisorCode"
+      }
+    ]
+  },
+  "publicfunddb.mf_fundprodname": {
+    "constantdb.secumain": [
+      {
+        "name": "证券内部编码",
+        "columns": "InnerCode-InnerCode"
+      }
+    ]
+  },
+  "usstockdb.us_companyinfo": {
+    "constantdb.us_secumain": [
+      {
+        "name": "公司代码",
+        "columns": "CompanyCode-CompanyCode"
+      }
+    ],
+    "constantdb.lc_areacode": [
+      {
+        "name": "注册地国家",
+        "columns": "RegCountry-AreaInnerCode"
+      },
+      {
+        "name": "国家代码1",
+        "columns": "CountryCode-AreaInnerCode"
+      }
+    ]
+  }
+}

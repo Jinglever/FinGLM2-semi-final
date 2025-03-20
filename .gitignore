@@ -1,0 +1,8 @@
+.DS_Store
+src/__pycache__
+__pycache__
+.env
+output/*
+!output/.gitkeep
+submit/*
+!submit/.gitkeep

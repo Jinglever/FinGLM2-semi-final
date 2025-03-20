@@ -1,0 +1,14 @@
+zhipuai>=2.1.5.20241204
+pandas>=2.2.3
+tqdm>=4.67.1
+ollama>=0.4.6
+mysql-connector-python>=9.2.0
+jieba>=0.42.1
+python-dotenv>=1.0.1
+openai>=1.60.0
+requests>=2.32.3
+scikit-learn>=1.6.1
+sqlparse>=0.5.3
+rank-bm25>=0.2.2
+joblib>=1.4.2
+sqlglot>=26.8.0
