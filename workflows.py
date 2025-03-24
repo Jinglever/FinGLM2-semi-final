@@ -1,6 +1,6 @@
 """This module initializes Workflows."""
 import config
-from src.workflow_v3 import SqlQuery, CheckDbStructure
+from src.workflow import SqlQuery, CheckDbStructure
 # from utils import execute_sql_query, db_select_post_process, table_select_post_process, foreign_key_hub
 import utils
 
