@@ -4,6 +4,8 @@ https://competitions.zhipuai.cn/matchDetail?id=120241202000000003
 本方案在复赛B榜最后一次提交拿到53.1分。
 在DB召回上，有一些比较有趣的工程手段，后续会通过公众号文章整理本方案的思路和技巧。
 
+wiki: https://deepwiki.com/Jinglever/FinGLM2-semi-final
+
 ### Python版本
 ```
 Python 3.12.2
